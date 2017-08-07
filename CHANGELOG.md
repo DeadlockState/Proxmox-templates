@@ -1,5 +1,18 @@
 # Changelog
 
+## 2017-08-07
+
+New releases
+* Ubuntu Server 16.04.3 LTS (ubuntu-16.04-standard 16.04-3) created from existing container template Ubuntu Server 16.04.1 LTS (ubuntu-16.04-standard 16.04-1)
+* Debian 8.9.0 Jessie (debian-8.0-standard 8.9-1) created from existing container template Debian 8.7.1 Jessie (debian-8.0-standard 8.7-1)
+
+### Downloads
+
+Type   | Package                   | Version       | Description                     | Size         | Download
+------ | ------------------------- | ------------- | ------------------------------- | ------------ | ----------
+lxc    | ubuntu-16.04-standard     | 16.04-3       | Ubuntu Xenial (standard)        | 217.58 MiB   | [![Download](http://i.imgur.com/YTw25qE.png)](https://drive.google.com/open?id=0B-E0Y3LheqTBQmRHdjJ3US1aOHM)
+lxc    | debian-8.0-standard       | 8.9-1         | Debian 8.0 (standard)           | 197.94 MiB   | [![Download](http://i.imgur.com/YTw25qE.png)](https://drive.google.com/open?id=0B-E0Y3LheqTBa2VIRnVhaEJLZGc)
+
 ## 2017-05-25
 
 New release
